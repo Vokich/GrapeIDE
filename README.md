@@ -9,3 +9,4 @@ For 2 days i made code editor, interpretator, dialog windows and little things t
 ---
 My tasks is make interpretator for other operation systems, really attractive desing, fix little bugs, and add new exellent functions
 ---
+I have I big problem in project. Well,idk how fix it lol
